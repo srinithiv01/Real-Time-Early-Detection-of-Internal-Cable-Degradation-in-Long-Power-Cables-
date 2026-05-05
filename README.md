@@ -1,0 +1,2 @@
+# Real-Time-Early-Detection-of-Internal-Cable-Degradation-in-Long-Power-Cables-
+The proposed system is an IoT-based real-time cable monitoring solution  uses vibration, sound, temperature, and humidity sensor to detect early insulation degradation in power cables. It provides continuous monitoring, health analysis, and instant alerts via Blynk and GSM, enables predictive maintenance and improving reliability of power systems.
